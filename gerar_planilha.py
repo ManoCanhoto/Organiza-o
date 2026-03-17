@@ -1,4 +1,4 @@
-mport os
+import os
 import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
